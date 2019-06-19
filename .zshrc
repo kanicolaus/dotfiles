@@ -108,6 +108,7 @@ POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 #
 # Example aliases
 #
+alias pip="pip3"
 alias python="python3"
 alias cygwinconfig="open ~/CygwinSetup/setup-x86_64.exe"
 alias open="cygstart"
@@ -122,6 +123,7 @@ alias cp='cp -iv'                           # Preferred 'cp' implementation
 alias mv='mv -iv'                           # Preferred 'mv' implementation
 alias mkdir='mkdir -pv'                     # Preferred 'mkdir' implementation
 alias ll='ls -FGlAhp'                       # Preferred 'ls' implementation
+alias home='cd ~'
 # alias edit='sublime'                        # edit:         Opens any file in sublime editor
 #alias f='open -a Finder ./'                 # f:            Opens current directory in MacOS Finder
 #extract () {

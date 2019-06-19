@@ -8,7 +8,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'jceb/vim-orgmode'
 Plugin 'tpope/vim-speeddating'
 Plugin 'vim-airline/vim-airline'
-Plugin 'scrooloose/sytastic'
+Plugin 'scrooloose/syntastic'
+Plugin 'rhysd/open-pdf.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 

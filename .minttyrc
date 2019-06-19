@@ -1,7 +1,7 @@
 BoldAsFont=-1
 Padding=18
 FontSmoothing=full
-Font=Inconsolata-dz for Powerline
+Font=Cousine for Powerline
 FontHeight=9
 FontWeight=500
 BackgroundColour=0,0,64
