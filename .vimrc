@@ -10,15 +10,13 @@ Plugin 'tpope/vim-speeddating'
 Plugin 'vim-airline/vim-airline'
 Plugin 'scrooloose/syntastic'
 Plugin 'rhysd/open-pdf.vim'
+Plugin 'scrooloose/nerdtree'
+Plugin 'flazz/vim-colorschemes'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
-
-
-
-
-
-
+" Set colorscheme
+colorscheme brogrammer
 
 
 
